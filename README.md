@@ -25,5 +25,5 @@ What's up? I'm [Ahmad Muzaki Salman Alfaris](https://ahmadmuzaki.com/), a Full S
 - 👨🏽‍💻 I’m currently working for myself 🥇;
 - 🌱 I’m currently learning Python, Dart and Go; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [WA Ahmad Muzaki SA](https://wa.me/+6287826077526);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📫 How to reach me? Whatsapp : [Ahmad Muzaki SA](https://wa.me/+6287826077526);
+- 📝[Resume](https://github.com/Ahmadmuzaki/Ahmadmuzaki/blob/main/Resume%20Ahmad%20Muzaki%20SA.pdf)
