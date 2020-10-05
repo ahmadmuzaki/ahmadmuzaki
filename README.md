@@ -20,7 +20,7 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-#### 📫 How to reach me:   
+#### 📫 Another How to reach me:   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/zethbillion/)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmadmuzaki/)
   [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://web.facebook.com/AangMorningstar/)
