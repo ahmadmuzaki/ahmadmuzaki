@@ -27,3 +27,5 @@ What's up? I'm [Ahmad Muzaki Salman Alfaris](https://ahmadmuzaki.com/), a Full S
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me? Whatsapp : [Ahmad Muzaki SA](https://wa.me/+6287826077526);
 - 📝[Resume](https://github.com/Ahmadmuzaki/Ahmadmuzaki/blob/main/Resume%20Ahmad%20Muzaki%20SA.pdf)
+
+[![Ahmad Muzaki github stats](https://github-readme-stats.vercel.app/api?username=ahmadmuzaki&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ahmadmuzaki)
