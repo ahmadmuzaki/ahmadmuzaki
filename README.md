@@ -6,10 +6,10 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as Full-Stack Developer 🥇;
+- 👨🏽‍💻 I’m currently working as Full-Stack Developer;
 - 🎓 I’m currently learning Python, Dart , Vue.js and Go; 
 - 💬 Ask me about anything, I am happy to help;
-- ✉ How to reach me? Whatsapp : [Ahmad Muzaki SA](https://wa.me/+6287826077526);
+- ✉ How to reach me? WA : [Ahmad Muzaki SA](https://wa.me/+6287826077526);
 - 📝[Resume](https://github.com/Ahmadmuzaki/Ahmadmuzaki/blob/main/Resume%20Ahmad%20Muzaki%20SA.pdf)
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) 
