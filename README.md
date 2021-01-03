@@ -15,14 +15,12 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) 
 [![Java](https://img.shields.io/static/v1?label=&message=Java&color=ec2025&logo=java&logoColor=FFFFFF)](https://www.java.com/en/) 
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
 [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7b70e2&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) 
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![React](https://img.shields.io/static/v1?label=&message=React&color=48cef7&logo=React&logoColor=FFFFFF)](https://reactjs.org/)
 [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00acd7&logo=Go&logoColor=FFFFFF)](https://golang.org/)
+[![Php](https://img.shields.io/static/v1?label=&message=Php&color=8892bf&logo=Php&logoColor=FFFFFF)](https://www.php.net/)
 [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=00acd7&logo=CSS3&logoColor=FFFFFF)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=00acd7&logo=Laravel&logoColor=FFFFFF)](https://sass-lang.com/)
-[![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=00acd7&logo=Dart&logoColor=FFFFFF)](https://sass-lang.com/)
+[![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=03589c&logo=Dart&logoColor=FFFFFF)](https://dart.dev/)
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ahmadmuzaki.ahmadmuzaki)
