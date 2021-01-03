@@ -13,7 +13,7 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
 - 📝[Resume](https://github.com/Ahmadmuzaki/Ahmadmuzaki/blob/main/Resume%20Ahmad%20Muzaki%20SA.pdf)
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) 
-[![Java](https://img.shields.io/static/v1?label=&message=Java&color=ee4266&logo=java&logoColor=FFFFFF)](https://www.java.com/en/) 
+[![Java](https://img.shields.io/static/v1?label=&message=Java&color=ec2025&logo=java&logoColor=FFFFFF)](https://www.java.com/en/) 
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
 [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7b70e2&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) 
