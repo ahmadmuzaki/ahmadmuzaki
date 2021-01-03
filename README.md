@@ -20,7 +20,7 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![React](https://img.shields.io/static/v1?label=&message=React&color=48cef7&logo=React&logoColor=FFFFFF)](https://reactjs.org/)
 [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00acd7&logo=Go&logoColor=FFFFFF)](https://golang.org/)
-[![CSS](https://img.shields.io/static/v1?label=&message=Css&color=00acd7&logo=Css&logoColor=FFFFFF)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=00acd7&logo=CSS3&logoColor=FFFFFF)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Scss](https://img.shields.io/static/v1?label=&message=Scss&color=00acd7&logo=Scss&logoColor=FFFFFF)](https://sass-lang.com/)
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
