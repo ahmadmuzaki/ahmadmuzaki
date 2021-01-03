@@ -19,7 +19,7 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
 [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7b70e2&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) 
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![React](https://img.shields.io/static/v1?label=&message=React&color=48cef7&logo=React&logoColor=FFFFFF)](https://reactjs.org/)
-[![Php](https://img.shields.io/static/v1?label=&message=Php&color=7377ad&logo=Php&logoColor=FFFFFF)](https://www.php.net/)
+[![Go](https://img.shields.io/static/v1?label=&message=Go&color=00acd7&logo=Go&logoColor=FFFFFF)](https://www.php.net/)
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ahmadmuzaki.ahmadmuzaki)
