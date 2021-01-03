@@ -16,7 +16,7 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
 [![Java](https://img.shields.io/static/v1?label=&message=Java&color=ee4266&logo=java&logoColor=FFFFFF)](https://www.java.com/en/) 
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
-[![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=4FA1EF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) 
+[![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7b70e2&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) 
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![HTML](https://img.shields.io/static/v1?label=&message=React&color=48cef7&logo=React&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
