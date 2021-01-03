@@ -21,7 +21,7 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
 [![React](https://img.shields.io/static/v1?label=&message=React&color=48cef7&logo=React&logoColor=FFFFFF)](https://reactjs.org/)
 [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00acd7&logo=Go&logoColor=FFFFFF)](https://golang.org/)
 [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=00acd7&logo=CSS3&logoColor=FFFFFF)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Scss](https://img.shields.io/static/v1?label=&message=Scss&color=00acd7&logo=Scss&logoColor=FFFFFF)](https://sass-lang.com/)
+[![Scss](https://img.shields.io/static/v1?label=&message=Scss&color=00acd7&logo=SCSS&logoColor=FFFFFF)](https://sass-lang.com/)
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ahmadmuzaki.ahmadmuzaki)
