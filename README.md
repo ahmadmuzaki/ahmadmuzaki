@@ -10,7 +10,7 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
 - 🎓 I’m currently learning Go; 
 - 💬 Ask me about anything, I am happy to help;
 - ✉ How to reach me? WA : [Ahmad Muzaki SA](https://wa.me/+6287826077526?text=hallo);
-- 📝[Resume](https://github.com/Ahmadmuzaki/Ahmadmuzaki/blob/main/Resume%20Ahmad%20Muzaki%20SA.pdf)
+- 📝[Resume](https://github.com/Ahmadmuzaki/Ahmadmuzaki/blob/main/Resume%20Ahmad%20Muzaki%20Salman%20Alfaris%20(4).pdf)
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) 
 [![Java](https://img.shields.io/static/v1?label=&message=Java&color=ec2025&logo=java&logoColor=FFFFFF)](https://www.java.com/en/) 
