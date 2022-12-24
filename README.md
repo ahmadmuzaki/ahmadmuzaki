@@ -6,8 +6,8 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as Front-End Web Developer using React;
-- 🎓 I’m currently learning Go; 
+- 👨🏽‍💻 I’m currently working as Front-End Web Developer using Reactjs | Nextjs;
+- 🎓 I’m currently learning Golang; 
 - 💬 Ask me about anything, I am happy to help;
 - ✉ How to reach me? WA : [Ahmad Muzaki SA](https://wa.me/+6287826077526?text=hallo);
 - 📝[Resume](https://github.com/Ahmadmuzaki/Ahmadmuzaki/blob/main/Resume%20Ahmad%20Muzaki%20Salman%20Alfaris%20(4).pdf)
