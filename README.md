@@ -3,7 +3,6 @@
 What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm [Ahmad Muzaki Salman Alfaris](https://ahmadmuzaki.com/), a Front-End Web Developer ⛪ from Indonesia.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- ##hi
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working as Front-End Web Developer using Reactjs | Nextjs;
