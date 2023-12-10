@@ -1,12 +1,12 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm [Ahmad Muzaki Salman Alfaris](https://ahmadmuzaki.com/), a Front-End Web Developer ⛪ from Indonesia.
+What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm [Ahmad Muzaki Salman Alfaris](https://ahmadmuzaki.com/), a Web Developer ⛪ from Indonesia.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as Front-End Web Developer using Reactjs | Nextjs;
+- 👨🏽‍💻 I’m currently working as Web Developer using Reactjs and Laravel;
 - 🎓 I’m currently learning Golang; 
 - 💬 Ask me about anything, I am happy to help;
 - ✉ How to reach me? WA : [Ahmad Muzaki SA](https://wa.me/+6287826077526?text=hallo);
