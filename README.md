@@ -6,7 +6,7 @@ What's up? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as Web Developer using Reactjs and Laravel;
+- 👨🏽‍💻 I’m currently working as Mobile and Web programmer.
 - 🎓 I’m currently learning Golang; 
 - 💬 Ask me about anything, I am happy to help;
 - ✉ How to reach me? WA : [Ahmad Muzaki SA](https://wa.me/+6287826077526?text=hallo);
